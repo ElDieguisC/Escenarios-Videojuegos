@@ -23,5 +23,8 @@
 			"Name": "ChaosRigidPhysicsAsync",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
